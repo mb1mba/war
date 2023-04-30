@@ -4,6 +4,8 @@ html, body {
     background-image: url("img/table.png");
     font-family: "Exo 2", sans-serif;
     height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 body {
